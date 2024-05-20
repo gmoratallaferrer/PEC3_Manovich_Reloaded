@@ -21,6 +21,7 @@ Aquí el planteamiento
 
 ## Re-descubriendo la hibridacion: Tilt Brush
 
+![Intarfaz de Strava](https://d3nn82uaxijpm6.cloudfront.net/assets/website/mobile/img-mobile-phones-58745fa9bd930b07f7a53d21d8a245915c6a851aab426b17833ea19d5041bb86.jpg)
 ![logo de tiltbrush](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.realovirtual.com%2Fnoticias%2F9315%2Fgoogle-abandona-tilt-brush-pasa-ser-aplicacion-codigo-abierto&psig=AOvVaw02TaYILhh_NH3_41Qn3bNb&ust=1716293398811000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiYhaWZnIYDFQAAAAAdAAAAABAE)
 Aquí la descubrición 1
 
