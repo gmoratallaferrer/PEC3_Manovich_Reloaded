@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Joven con expresión divertida](https://img.freepik.com/foto-gratis/joven-expresion-divertida_1150-1789.jpg?w=1380&t=st=1687965226~exp=1687965826~hmac=3ff12ff209bf2189f8a55fe4d6710d9a0e4ab76143f52817c2a9dc42e4b0a96d)
+![Joven con expresión divertida](https://www.pexels.com/es-es/foto/nina-tecnologia-dentro-reloj-de-pulsera-7869250/)
 
 
 
