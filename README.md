@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![([https://www.pexels.com/es-es/foto/nina-tecnologia-dentro-reloj-de-pulsera-7869250/)]
+![Robot AI generado](https://cdn.pixabay.com/photo/2024/02/19/21/17/ai-generated-8584133_1280.jpg)
 
 
 
