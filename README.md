@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Cartel de corrección de visión láser](https://img.freepik.com/fotos-premium/cartel-correccion-vision-laser-fondo-borroso_63198044.htm)
+![Cartel de corrección de visión láser](https://www.freepik.es/foto-gratis/joven-expresion-divertida_1029561.htm#fromView=search&page=1&position=8&uuid=bcaebcfa-a2a2-41dc-a92b-4f00a5001391)
 
 
 
