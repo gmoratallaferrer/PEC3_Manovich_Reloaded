@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Imagen de kues1 en Freepik](https://img.freepik.com/foto-gratis/joven-expresion-divertida_1150-509.jpg?w=826&t=st=1687965226~exp=1687965826~hmac=3ff12ff209bf2189f8a55fe4d6710d9a0e4ab76143f52817c2a9dc42e4b0a96d)
+![Imagen de kues1 en Freepik](https://www.freepik.es/fotos-premium/cartel-correccion-vision-laser-fondo-borroso_63198044.htm#fromView=search&page=1&position=9&uuid=b7a1d7b1-2893-412f-b937-9ce5e2dae4c2))
 
 
 ![hombre sorprendido utilizando gafas de realidad virtual con imágen futurista distorsinada de fondo](https://www.freepik.es/foto-gratis/joven-expresion-divertida_1029537.htm#from_view=detail_alsolike)
