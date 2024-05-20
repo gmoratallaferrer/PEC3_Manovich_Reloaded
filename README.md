@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Cartel de corrección de visión láser](https://www.freepik.es/foto-gratis/joven-expresion-divertida_1029561.htm#fromView=search&page=1&position=8&uuid=bcaebcfa-a2a2-41dc-a92b-4f00a5001391)
+![Joven con expresión divertida](https://img.freepik.com/foto-gratis/joven-expresion-divertida_1150-1789.jpg?w=1380&t=st=1687965226~exp=1687965826~hmac=3ff12ff209bf2189f8a55fe4d6710d9a0e4ab76143f52817c2a9dc42e4b0a96d)
 
 
 
