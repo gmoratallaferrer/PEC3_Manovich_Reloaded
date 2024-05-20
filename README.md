@@ -16,18 +16,20 @@ Fecha: 20 DE MAYO DE 2024
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aquí el planteamiento
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Re-descubriendo la hibridacion: Tilt Brush
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![logo de tiltbrush](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.realovirtual.com%2Fnoticias%2F9315%2Fgoogle-abandona-tilt-brush-pasa-ser-aplicacion-codigo-abierto&psig=AOvVaw02TaYILhh_NH3_41Qn3bNb&ust=1716293398811000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiYhaWZnIYDFQAAAAAdAAAAABAE).
+Aquí la descubrición 1
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: VRChat 
+![logo de VR Chat](https://www.google.com/imgres?q=VRChat&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8d%2FVrchatlogo.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FVRChat&docid=-f2L-TX6uw398M&tbnid=lJ1cJiR_04w-SM&vet=12ahUKEwirycS7mZyGAxUj_AIHHcyhAQAQM3oECBsQAA..i&w=2164&h=922&hcb=2&ved=2ahUKEwirycS7mZyGAxUj_AIHHcyhAQAQM3oECBsQAA).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aquí la descubrición 2
 
 
 ### Referencias y Bibliografía
