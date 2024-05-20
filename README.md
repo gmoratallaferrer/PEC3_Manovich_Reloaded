@@ -28,7 +28,7 @@ Aquí la descubrición 1
 
 
 ## Re-descubriendo la hibridacion: VRChat 
-![logo de VR Chat](https://www.google.com/imgres?q=VRChat&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8d%2FVrchatlogo.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FVRChat&docid=-f2L-TX6uw398M&tbnid=lJ1cJiR_04w-SM&vet=12ahUKEwirycS7mZyGAxUj_AIHHcyhAQAQM3oECBsQAA..i&w=2164&h=922&hcb=2&ved=2ahUKEwirycS7mZyGAxUj_AIHHcyhAQAQM3oECBsQAA)
+![logo de VR Chat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vrchatlogo.png/1920px-Vrchatlogo.png)
 
 Aquí la descubrición 2
 
