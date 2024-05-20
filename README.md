@@ -22,6 +22,7 @@ Aquí el planteamiento
 ## Re-descubriendo la hibridacion: Tilt Brush
 
 ![logo de tiltbrush](https://www.realovirtual.com/files/images/1001-2000/1591/591dda0f19eaf.jpeg)
+
 Aquí la descubrición 1
 
 
