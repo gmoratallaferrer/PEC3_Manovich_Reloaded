@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: GABRIEL MORATALLA
 
 
-Fecha: 
+Fecha: 20 DE MAYO DE 2024
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
