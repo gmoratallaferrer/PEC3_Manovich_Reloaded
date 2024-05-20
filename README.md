@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Cultura Digital](href="https://www.freepik.es/foto-gratis/joven-expresion-divertida_1029537.htm#from_view=detail_alsolike">Imagen de kues1 en Freepik) 
+<a href="https://www.freepik.es/foto-gratis/joven-expresion-divertida_1029537.htm#from_view=detail_alsolike">Imagen de kues1 en Freepik</a>
 
 
 
