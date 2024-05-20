@@ -8,7 +8,7 @@ Autor: GABRIEL MORATALLA
 
 Fecha: 20 DE MAYO DE 2024
 
-![Foto de Vanessa Loring en Pexels]([https://www.pexels.com/es-es/foto/nina-tecnologia-dentro-reloj-de-pulsera-7869250/](https://images.pexels.com/photos/7869250/pexels-photo-7869250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
+![([https://www.pexels.com/es-es/foto/nina-tecnologia-dentro-reloj-de-pulsera-7869250/)]
 
 
 
