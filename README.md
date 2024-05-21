@@ -51,7 +51,8 @@ En 2015 el proyecto es adquirido por Google, debido al auge que estaban teniendo
 
 La aplicación, hibrida una herramienta de dibujo en la que puedes elegir tipos de trazos y colores, con un dispositivo de visión en realidad virtual en 3D, pudiendo diseñar infinidad de creaciones trabajando con los 6 grados de libertad, realizando capturas, GIFs o videos y pudiendo exportar y compartir posteriormente los proyectos en .fbx .usd y .json.
 
-https://www.pixartprinting.es/blog/wp-content/uploads/2017/07/0-Tilt-brush.jpg
+![imagen creada con TiltBrush](https://www.pixartprinting.es/blog/wp-content/uploads/2017/07/0-Tilt-brush.jpg)
+
 
 
 
