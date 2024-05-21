@@ -26,7 +26,10 @@ Según Manovich la hibridación es una remediación (no se inventa nada nuevo, s
 **Referencia:**
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
-La hibridación es una evolución de la multimedia. La diferencia con la multimedia, es que en multimedia los medios conviven, pero cada uno tiene su propio medio para abrirse, mientras que en la hibridación todos comparten un mismo medio (Manovich, 2013). 
+> "La hibridación es una evolución de la multimedia. La diferencia con la multimedia, es que en multimedia los medios conviven, pero cada uno tiene su propio medio para abrirse, mientras que en la hibridación todos comparten un mismo medio"
+**Referencia:**
+Manovich, L. (2013). *El software toma el mando*. UOC.
+ 
 
 Entendemos entonces que la hibridación es la creación de un producto utilizando técnicas de otros, para generar algo totalmente nuevo.
 
