@@ -17,10 +17,19 @@ Fecha: 20 DE MAYO DE 2024
 
 
 Siguiendo en la exploración de los nuevos medios, entramos ahora en contacto con el concepto de hibridación de medios, desde el punto de vista de Lev Manovich.
+
 Según la RAE, hibridación es: “Producción de seres híbridos”, e híbrido significa: “Dicho de una cosa: Que es producto de elementos de distinta naturaleza.” 
-Según Manovich la hibridación es una remediación (no se inventa nada nuevo, se evoluciona lo que ya estaba), de los medios, “se da una fusión entre los elementos que comparten las técnicas de software y las interfaces generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado” (Manovich, 2013) 
+
+Según Manovich la hibridación es una remediación (no se inventa nada nuevo, se evoluciona lo que ya estaba), de los medios,
+
+> "se da una fusión entre los elementos que comparten las técnicas de software y las interfaces generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado" 
+**Referencia:**
+Manovich, L. (2013). *El software toma el mando*. UOC.
+
 La hibridación es una evolución de la multimedia. La diferencia con la multimedia, es que en multimedia los medios conviven, pero cada uno tiene su propio medio para abrirse, mientras que en la hibridación todos comparten un mismo medio (Manovich, 2013). 
+
 Entendemos entonces que la hibridación es la creación de un producto utilizando técnicas de otros, para generar algo totalmente nuevo.
+
 Cuando sabemos como mirar, encontramos más casos de hibridación de los que pensamos, como se podrá ver en el desarrollo de la asignatura, y en mi caso concreto, me ha tocado investigar sobre un par de casos, a priori, desconocidos para mí: TiltBrush y VRChat.
 
 
