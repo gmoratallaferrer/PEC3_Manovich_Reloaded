@@ -40,7 +40,18 @@ Cuando sabemos como mirar, encontramos más casos de hibridación de los que pen
 
 ![logo de tiltbrush](https://www.realovirtual.com/files/images/1001-2000/1591/591dda0f19eaf.jpeg)
 
-Aquí la descubrición 1
+Es una aplicación diseñada para el dibujo en 3D con la intermediación de algún dispositivo de visión VR (vive, oculus,…).
+
+Nace en 2014 de la mano de Skillman y Hackett, y ha recibido innumerables premios a su interfaz, como herramienta VR, y como herramienta de creatividad.
+
+
+
+En 2015 el proyecto es adquirido por Google, debido al auge que estaban teniendo las tecnologías 3D. Como no obtuvieron los rendimientos deseados, en 2021 liberaron el código bajo licencia Apache 2.0, y ahora son los usuarios los que realizan las actualizaciones en un  [repositorio GitHub](https://github.com/googlevr/tilt-brush).
+
+
+La aplicación, hibrida una herramienta de dibujo en la que puedes elegir tipos de trazos y colores, con un dispositivo de visión en realidad virtual en 3D, pudiendo diseñar infinidad de creaciones trabajando con los 6 grados de libertad, realizando capturas, GIFs o videos y pudiendo exportar y compartir posteriormente los proyectos en .fbx .usd y .json.
+
+https://www.pixartprinting.es/blog/wp-content/uploads/2017/07/0-Tilt-brush.jpg
 
 
 
