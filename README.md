@@ -56,6 +56,9 @@ La aplicación, hibrida una herramienta de dibujo en la que puedes elegir tipos 
 
 
 
+
+
+
 ## Re-descubriendo la hibridacion: VRChat 
 ![logo de VR Chat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vrchatlogo.png/1920px-Vrchatlogo.png)
 
