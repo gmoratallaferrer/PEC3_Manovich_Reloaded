@@ -53,6 +53,13 @@ La aplicación, hibrida una herramienta de dibujo en la que puedes elegir tipos 
 
 ![imagen creada con TiltBrush](https://www.pixartprinting.es/blog/wp-content/uploads/2017/07/0-Tilt-brush.jpg)
 
+TiltBrush, como hizo Paint en su momento, está sirviendo para dar a conocer el funcionamiento de una nueva tecnología (el ratón en el caso de Paint), resultando ser una aplicación sencilla e intuitiva que con unos minutos de explicación te permite empezar a realizar dibujos en 3D.
+
+> "it took was 30 seconds of explanation from the employee showing off the headset rig, and I was immediately creating art.
+"
+**Referencia:**
+UNGERLEIDER, N. (2016). *Google’s Tilt Brush Is The First Great VR App*. WEB Fast Company.
+
 
 
 
