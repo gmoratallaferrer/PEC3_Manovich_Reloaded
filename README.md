@@ -60,6 +60,12 @@ TiltBrush, como hizo Paint en su momento, está sirviendo para dar a conocer el 
 **Referencia:**
 UNGERLEIDER, N. (2016). *Google’s Tilt Brush Is The First Great VR App*. WEB Fast Company.
 
+Repasando los principios del software desde el punto de vista de Lev Manovich, podemos ver una clara modularidad en TiltBrush en cuanto a que los artistas pueden elegir una gran combinación de pinceles con efectos, cada uno de ellos representado por un módulo diferente.
+La automatización se puede apreciar cuando utilizas la opción de dibujar de manera simétrica, o realizar y repetir patrones.
+La variabilidad se aplica en TiltBrush en cuanto a que se pueden recuperar versiones anteriores sin perder el progreso, fomentando la experimentación.
+Por último, como he comentado antes, se aprecia una clara transcodificación en cuanto se puede exportar el trabajo final a varios formatos ampliando las posibilidades.
+ 
+
 
 
 
