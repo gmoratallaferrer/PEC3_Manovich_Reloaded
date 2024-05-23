@@ -83,6 +83,7 @@ Entre sus principales opciones está la de chatear mediante voz, con un sistema 
 Por lo que A través de la creación y personalización de avatares, la construcción de mundos virtuales y la interacción en tiempo real permite una hibridación sin precedentes de diferentes formas de comunicación y arte digital.
 
 Es compatible con la mayoría de dispositivos para VR (Vive, Oculus, Valve,…), y además se puede jugar desde un ordenador, en este caso sin las opciones de la realidad virtual.
+
 ![imagen capturada en VRChat](https://miro.medium.com/v2/resize:fit:720/format:webp/1*I5c-QMDHVPeyC35pM1V4Ng.png)
 
 
