@@ -59,11 +59,11 @@ TiltBrush, como hizo Paint en su momento, está sirviendo para dar a conocer el 
 "
 **Referencia:**
 UNGERLEIDER, N. (2016). *Google’s Tilt Brush Is The First Great VR App*. WEB Fast Company.
-
-Repasando los principios del software desde el punto de vista de Lev Manovich, podemos ver una clara modularidad en TiltBrush en cuanto a que los artistas pueden elegir una gran combinación de pinceles con efectos, cada uno de ellos representado por un módulo diferente.
-La automatización se puede apreciar cuando utilizas la opción de dibujar de manera simétrica, o realizar y repetir patrones.
-La variabilidad se aplica en TiltBrush en cuanto a que se pueden recuperar versiones anteriores sin perder el progreso, fomentando la experimentación.
-Por último, como he comentado antes, se aprecia una clara transcodificación en cuanto se puede exportar el trabajo final a varios formatos ampliando las posibilidades.
+++
+Repasando los principios del software desde el punto de vista de Lev Manovich, podemos ver una clara **modularidad** en TiltBrush en cuanto a que los artistas pueden elegir una gran combinación de pinceles con efectos, cada uno de ellos representado por un módulo diferente.
+La **automatización** se puede apreciar cuando utilizas la opción de dibujar de manera simétrica, o realizar y repetir patrones.
+La **variabilidad** se aplica en TiltBrush en cuanto a que se pueden recuperar versiones anteriores sin perder el progreso, fomentando la experimentación.
+Por último, como he comentado antes, se aprecia una clara **transcodificación** en cuanto se puede exportar el trabajo final a varios formatos ampliando las posibilidades.
  
 
 
@@ -86,12 +86,13 @@ Es compatible con la mayoría de dispositivos para VR (Vive, Oculus, Valve,…),
 
 Desde el punto de vista de Manovich, y su concepto de hibridación, es clara la conexión de otros sistemas de chat (como pudo ser Messenger en los 90’s), y los actuales sistemas de realizad virtual en el que te desplazas en 3D por un entorno creado por ordenador.
 
-Los principios del software se pueden observar claramente también en este ejemplo, en cuanto a que tanto la creación de los avatares, como de los mundos en los que se desarrolla el juego, se van creando por módulos que después se encajan en un único elemento (por ejemplo, el avatar se compone de una cabeza, torso, brazos…).
-La aplicación cuenta con herramientas automatizadas que permiten la generación de avatares y entornos sin necesidad de habilidades avanzadas, haciendo que la experiencia de creación no sea tediosa ni ajena al público general.
+Los principios del software se pueden observar claramente también en este ejemplo, en cuanto a que tanto la creación de los avatares, como de los mundos en los que se desarrolla el juego, se van creando por u**módulos** que después se encajan en un único elemento (por ejemplo, el avatar se compone de una cabeza, torso, brazos…).
 
-La variabilidad se puede observar en cuanto a que el entorno se puede ver modificado por las interacciones que los avatares tienen con él. Y se pueden ir modificando y adaptando constantemente según las preferencias de los usuarios en cada momento.
+La aplicación cuenta con herramientas **automatizadas** que permiten la generación de avatares y entornos sin necesidad de habilidades avanzadas, haciendo que la experiencia de creación no sea tediosa ni ajena al público general.
 
-Pero el principio que más claro se ve, es el de la transcodificación, pues en el videojuego pasamos a vivir una vida alternativa al mundo real, teniendo todo tipo de relaciones iguales a las que se pueden tener fuera del juego, en ella podemos ser una persona totalmente diferente, en la que podemos ser lo que queramos.
+La **variabilidad** se puede observar en cuanto a que el entorno se puede ver modificado por las interacciones que los avatares tienen con él. Y se pueden ir modificando y adaptando constantemente según las preferencias de los usuarios en cada momento.
+
+Pero el principio que más claro se ve, es el de la **transcodificación**, pues en el videojuego pasamos a vivir una vida alternativa al mundo real, teniendo todo tipo de relaciones iguales a las que se pueden tener fuera del juego, en ella podemos ser una persona totalmente diferente, en la que podemos ser lo que queramos.
 
 
 ### Referencias y Bibliografía
