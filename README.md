@@ -75,7 +75,23 @@ Por último, como he comentado antes, se aprecia una clara transcodificación en
 ## Re-descubriendo la hibridacion: VRChat 
 ![logo de VR Chat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vrchatlogo.png/1920px-Vrchatlogo.png)
 
-Aquí la descubrición 2
+Por otro lado, y siguiendo con los medios en realidad virtual, tenemos VRChat, videojuego lanzado en 2014.
+Se trata de un juego en el que los personajes interactúan entre sí en un mundo abierto virtual común, mediante un sistema de chat. La principal diferencia es que no manejas un personaje, sino que la persona misma es la que se adentra en el universo del videojuego.
+
+Entre sus principales opciones está la de chatear mediante voz, con un sistema que sincroniza el movimiento de los labios del personaje, logrando una experiencia más real e inmersiva.
+
+Por lo que A través de la creación y personalización de avatares, la construcción de mundos virtuales y la interacción en tiempo real permite una hibridación sin precedentes de diferentes formas de comunicación y arte digital.
+
+Es compatible con la mayoría de dispositivos para VR (Vive, Oculus, Valve,…), y además se puede jugar desde un ordenador, en este caso sin las opciones de la realidad virtual.
+
+Desde el punto de vista de Manovich, y su concepto de hibridación, es clara la conexión de otros sistemas de chat (como pudo ser Messenger en los 90’s), y los actuales sistemas de realizad virtual en el que te desplazas en 3D por un entorno creado por ordenador.
+
+Los principios del software se pueden observar claramente también en este ejemplo, en cuanto a que tanto la creación de los avatares, como de los mundos en los que se desarrolla el juego, se van creando por módulos que después se encajan en un único elemento (por ejemplo, el avatar se compone de una cabeza, torso, brazos…).
+La aplicación cuenta con herramientas automatizadas que permiten la generación de avatares y entornos sin necesidad de habilidades avanzadas, haciendo que la experiencia de creación no sea tediosa ni ajena al público general.
+
+La variabilidad se puede observar en cuanto a que el entorno se puede ver modificado por las interacciones que los avatares tienen con él. Y se pueden ir modificando y adaptando constantemente según las preferencias de los usuarios en cada momento.
+
+Pero el principio que más claro se ve, es el de la transcodificación, pues en el videojuego pasamos a vivir una vida alternativa al mundo real, teniendo todo tipo de relaciones iguales a las que se pueden tener fuera del juego, en ella podemos ser una persona totalmente diferente, en la que podemos ser lo que queramos.
 
 
 ### Referencias y Bibliografía
