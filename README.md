@@ -121,15 +121,13 @@ Analizando el caso, podemos observar los diferentes medios que se hibridan en la
 
   ### Webgrafía
 
-- Miller, P. (2016, February 11). Google's Tilt Brush Is The First Great VR App. *Fast Company*. Recuperado de https://www.fastcompany.com/3056668/googles-tilt-brush-is-the-first-great-vr-app
+- Ungerleider, N. (2016). Google's Tilt Brush Is The First Great VR App. *Fast Company*. Recuperado de https://www.fastcompany.com/3056668/googles-tilt-brush-is-the-first-great-vr-app
 - Wikipedia. (s.f.). VRChat. En *Wikipedia, la enciclopedia libre*. Recuperado de https://es.wikipedia.org/wiki/VRChat
 - Wikipedia. (s.f.). Tilt Brush. En *Wikipedia, la enciclopedia libre*. Recuperado de https://es.wikipedia.org/wiki/Tilt_Brush
-- Fiverr. (s.f.). VRChat Gigs. Recuperado de https://es.fiverr.com/gigs/vrchat
-- Metaverse News. (2023). ¿Qué es VRChat? Recuperado de https://metaverse-news.es/que-es-vrchat/
-- Google Play. (s.f.). VRChat en Google Play. Recuperado de https://play.google.com/store/apps/details?id=com.vrchat.mobile.playstore&hl=es_CR&pli=1
+- Rosicart, E. (2022). ¿Qué es VRChat? Recuperado de https://metaverse-news.es/que-es-vrchat/
 - VRChat. (s.f.). VRChat Official Site. Recuperado de https://hello.vrchat.com/
 - GitHub. (2021). Tilt Brush. Recuperado de https://github.com/googlevr/tilt-brush
-- Xataka. (2021, January 27). Google convierte a Tilt Brush en open source: la popular app de pintura 3D en realidad virtual pervivirá gracias a los usuarios. Recuperado de https://www.xataka.com/realidad-virtual-aumentada/google-convierte-a-tilt-brush-open-source-popular-app-pintura-3d-realidad-virtual-pervivira-gracias-a-usuarios
+- Xataka. (2021, January 27). Google convierte a Tilt Brush en open source. Recuperado de https://www.xataka.com/realidad-virtual-aumentada/google-convierte-a-tilt-brush-open-source-popular-app-pintura-3d-realidad-virtual-pervivira-gracias-a-usuarios
 - Tilt Brush. (s.f.). Tilt Brush Official Site. Recuperado de https://www.tiltbrush.com/
 - Manovich, L. (2007). Understanding Hybrid Media. Recuperado de http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 
