@@ -106,6 +106,14 @@ La **variabilidad** se puede observar en cuanto a que el entorno se puede ver mo
 
 Pero el principio que más claro se ve, es el de la **transcodificación**, pues en el videojuego pasamos a vivir una vida alternativa al mundo real, teniendo todo tipo de relaciones iguales a las que se pueden tener fuera del juego, en ella podemos ser una persona totalmente diferente, en la que podemos ser lo que queramos.
 
+Analizando el caso, podemos observar los diferentes medios que se hibridan en la aplicación:
+
+- **Chat de diálogo entre participantes**: pudiendo interactuar entre los miembros al estilo de cualquier chat tradicional.
+- **Videojuego interactivo**: de la misma forma que otros juegos de entorno abierto, puedes interactuar con otros personajes así como con el entorno.
+- **Creación y edición 3D**: pudiendo diseñar tus avatares y los escenarios donde se desarrolla la acción.
+- **Realidad virtual**: combina todos los elementos anteriores en un entorno de realidad virtual, teniendo como resultado un producto totalmente novedoso.
+
+
 
 ### Referencias y Bibliografía
 
