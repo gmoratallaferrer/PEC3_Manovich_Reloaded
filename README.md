@@ -64,6 +64,15 @@ Repasando los principios del software desde el punto de vista de Lev Manovich, p
 La **automatización** se puede apreciar cuando utilizas la opción de dibujar de manera simétrica, o realizar y repetir patrones.
 La **variabilidad** se aplica en TiltBrush en cuanto a que se pueden recuperar versiones anteriores sin perder el progreso, fomentando la experimentación.
 Por último, como he comentado antes, se aprecia una clara **transcodificación** en cuanto se puede exportar el trabajo final a varios formatos ampliando las posibilidades.
+
+En este sentido podemos ver como hibrida diferentes técnicas, para crear un producto nuevo y revolucionario hasta la fecha:
+
+- **Pintura y dibujo tradicionales**: usando pinceles, y combinaciones de colores.
+- **Animación y movimiento**: pudiendo incorporar diferentes efectos a nuestros dibujos.
+- **Escultura**: al producirse en tres dimensiones, los trabajos ganan perspectiva y profundidad, igual que lo hace la escultura clásica.
+- **Realidad virtual**: combina todos estos elementos en un entorno de realidad virtual. Esto transforma la manera en que los usuarios interactúan con sus obras y permite una nueva forma de experimentación artística.
+
+
  
 
 
