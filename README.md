@@ -119,7 +119,7 @@ Analizando el caso, podemos observar los diferentes medios que se hibridan en la
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
-  ## Webgrafía
+  ### Webgrafía
 
 - Miller, P. (2016, February 11). Google's Tilt Brush Is The First Great VR App. *Fast Company*. Recuperado de https://www.fastcompany.com/3056668/googles-tilt-brush-is-the-first-great-vr-app
 - Wikipedia. (s.f.). VRChat. En *Wikipedia, la enciclopedia libre*. Recuperado de https://es.wikipedia.org/wiki/VRChat
